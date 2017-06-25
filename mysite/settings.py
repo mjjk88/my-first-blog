@@ -25,7 +25,7 @@ SECRET_KEY = 'yv-epqnv6jj8!vbgeoi3-=6xv&19yh4v^-hhr8#_3coa2g^5f5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['monikakaja.pythonanywhere.com']
 
 
 # Application definition
